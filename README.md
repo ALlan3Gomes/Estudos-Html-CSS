@@ -1,2 +1,1 @@
-# Estudos-Html-CSS
-# Estudos-Html-CSS
+Estes são meus estudos em JavaScript, onde explorei a criação de scripts para tornar páginas web interativas e dinâmicas. Aprendi a manipular o DOM, lidar com eventos e criar funções para melhorar a funcionalidade dos sites# Estudos-Html-CSS
