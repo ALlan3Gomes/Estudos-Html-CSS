@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Atividade 02.3</title>
+</head>
+ <body>
+     <table>
+
+        <tr><td><img src="https://m.media-amazon.com/images/I/51FjqVc614L._SY445_SX342_.jpg" alt="solo leving 8"></img></td>
+
+        <td><h1>Mesmo quando tudo parecia perdido, ele encontrou a força para se reerguer, mostrando<br> que a verdadeira força vem de nunca desistir.</h1> </td>
+        
+        <td><img src="https://m.media-amazon.com/images/I/51FjqVc614L._SY445_SX342_.jpg" alt="solo leving 8"></td>       
+        
+        </tr>
+    
+     </table>
+
+
+ </body>
+</html>    
